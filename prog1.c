@@ -11,5 +11,6 @@ added one more line}
 
   hello
   i have added this line in remotrepo on satarday
-this line i m adding in mylocal repo on monday}
+this line i m adding in mylocal repo on monday
+  this line i am adding in remote repo on monday}
 
