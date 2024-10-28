@@ -6,4 +6,4 @@ printf("this is the line i have written before stashing");
 this file i m editing in github
 adding after fetch and merge
   this i m editing in github again
-  hello}
+  hello this statement is writen in r1 branch}
