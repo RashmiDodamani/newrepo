@@ -7,7 +7,8 @@ printf("this is the line i have written before stashing");
 printf("this line i am writting befor stash");
 printf("push");
 printf("i m pushing new line of code"):
-added one more line}
+added one more line
+fdfdgdfgfd}
 
   hello
   i have added this line in remotrepo on satarday
